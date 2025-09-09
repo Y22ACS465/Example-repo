@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This line 1 in feature branch
+=======
+This line 1 in fb
+>>>>>>> feature-branch
